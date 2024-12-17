@@ -13,9 +13,9 @@ O artigo utilizado como base pode ser acessado [neste link](https://drive.google
 ## Imagens
 
 ### 1. Mapa da Grade Curricular CIÊNCIA DA COMPUTAÇÃO
-![Mapa da Grade Curricular](Slides/Screenshot from 2024-12-17 16-01-33.png)
+![Mapa da Grade Curricular](mapa.png)
 
 ### 2. Grafo de Planaridade
-![Grafo de Planaridade](Slides/5.PNG)
+![Grafo de Planaridade](plano.png)
 
 Desenvolvido para a disciplina **CMAC03 - Algoritmos em Grafos**.
