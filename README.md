@@ -14,7 +14,7 @@ O artigo utilizado como base pode ser acessado [neste link](https://drive.google
 ## Imagens
 
 ### 1. Mapa da Grade Curricular
-![Mapa da Grade Curricular]()
+![Mapa da Grade Curricular](Slides/2.PNG)
 
 ### 2. Grafo de Planaridade
 ![Grafo de Planaridade]()
